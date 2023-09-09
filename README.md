@@ -1,17 +1,6 @@
-# Decentralized Voting Application using NextJS
-
-This is a demo application to implement voting in solidity smart contract and backend API in NextJS. 
-
-[Youtube Tutorial](https://youtu.be/xQ_kiTvRJA0)
-
-
-## Architecture
-
-![alt text](https://raw.githubusercontent.com/syedmuhamaddanish/IPFS-Hash-Storage-Blockchain-using-NextJS/main/ipfs-storage-01.jpg)
-
 ## Installation
 
-After you cloned the repository, you want to install the packages using
+install the packages using
 
 ```shell
 npm install
